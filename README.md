@@ -1,13 +1,3 @@
-# Minesweeper Game with AI Player
-
-**1. GitHub About Description:**
-A classic Minesweeper game implemented in Python, featuring both a human-playable version and an AI player capable of strategic moves.
-
-**2. Associated Tags:**
-`Python`, `Game`, `Minesweeper`, `AI`, `Puzzle`, `Console Game`, `Strategy`
-
-**3. README.md**
-
 # Minesweeper Game with AI
 
 ## Overview
