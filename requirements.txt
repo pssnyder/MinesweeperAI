@@ -1,0 +1,12 @@
+# No external dependencies required for basic functionality
+# Python 3.7+ standard library is sufficient
+
+# Optional dependencies for enhanced features:
+# numpy>=1.19.0        # For advanced mathematical operations
+# matplotlib>=3.3.0    # For visualization and plotting
+# pygame>=2.0.0        # For GUI interface (future enhancement)
+
+# Development dependencies:
+# pytest>=6.0.0        # For running tests
+# black>=21.0.0        # For code formatting
+# mypy>=0.812          # For type checking
